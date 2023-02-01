@@ -15,3 +15,8 @@ usethis::create_github_token()
 usethis::edit_r_environ()
 
 usethis::git_sitrep()
+
+# entrando no git ######################
+ usethis::use_git()
+ 
+ usethis::use_github()
