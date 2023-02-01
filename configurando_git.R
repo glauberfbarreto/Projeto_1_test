@@ -9,8 +9,6 @@ usethis::use_git_config(# Seu nome
 usethis::edit_r_environ()
 ## Criar um novo token no GitHub:
 usethis::create_github_token()
-# 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
-
 # Abra o arquivo .Renviron:
 usethis::edit_r_environ()
 
@@ -18,5 +16,4 @@ usethis::git_sitrep()
 
 # entrando no git ######################
  usethis::use_git()
- 
- usethis::use_github()
+
