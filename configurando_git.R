@@ -1,8 +1,6 @@
 library(usethis)
 usethis::use_git_config(# Seu nome
-  user.name = "Glauber Ferreira Barreto", 
-  # Seu email
-  user.email = "glauberfbarreto@gmail.com")
+
 
 #Abra o arquivo .Renviron usando a seguinte função:
 
